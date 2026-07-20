@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "인셉션",
+    "director": "크리스토퍼 놀란",
+    "year": 2010,
+    "rating": 9.3,
+    "genre": "SF",
+    "image": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "description": "타인의 꿈에 들어가 생각을 훔치는 스킬을 가진 남자가 마지막 임무로 생각을 심는 일에 도전한다."
+  },
+  {
+    "id": 2,
+    "title": "라라랜드",
+    "director": "데이미언 셔젤",
+    "year": 2016,
+    "rating": 8.9,
+    "genre": "드라마",
+    "image": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+    "description": "재즈 피아니스트와 배우 지망생이 LA에서 만나 사랑하고 각자의 꿈을 향해 나아간다."
+  },
+  {
+    "id": 3,
+    "title": "기생충",
+    "director": "봉준호",
+    "year": 2019,
+    "rating": 9.5,
+    "genre": "드라마",
+    "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+    "description": "전원 백수인 기택 가족이 부유한 박사장 가족의 삶에 조금씩 침투하며 벌어지는 이야기."
+  },
+  {
+    "id": 4,
+    "title": "인터스텔라",
+    "director": "크리스토퍼 놀란",
+    "year": 2014,
+    "rating": 9.1,
+    "genre": "SF",
+    "image": "https://image.tmdb.org/t/p/w500/xJHokMbljvjADYdit5fK5VQsXEG.jpg",
+    "description": "인류의 새 보금자리를 찾기 위해 웜홀을 통과하는 탐사대의 이야기."
+  },
+  {
+    "id": 5,
+    "title": "조커",
+    "director": "토드 필립스",
+    "year": 2019,
+    "rating": 8.7,
+    "genre": "스릴러",
+    "image": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+    "description": "고담시의 코미디언 아서 플렉이 사회에서 소외되며 조커로 변해가는 과정을 그린다."
+  },
+  {
+    "id": 6,
+    "title": "미니언즈",
+    "director": "카일 발다",
+    "year": 2015,
+    "rating": 7.4,
+    "genre": "애니메이션",
+    "image": "https://image.tmdb.org/t/p/w500/q0R4crx2SehcbUcJTgOD1yWCoO0.jpg",
+    "description": "가장 나쁜 보스를 찾아 떠나는 노란 미니언들의 유쾌한 모험."
+  }
+]
